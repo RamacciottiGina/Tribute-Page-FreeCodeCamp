@@ -1,0 +1,91 @@
+body {
+    background-color: white;
+    font-size: 20px;
+}
+
+main {
+    background-color: rgb(223, 219, 219);
+    padding: 10px 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#img-div {
+    background-color:rgba(255, 255, 255, .3);
+    margin: 15px 15px;
+    border-radius: 10px;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    margin:auto;
+    padding: 10px 0; 
+    border-radius: 10px;
+}
+
+img {
+    display:block;
+    margin: auto;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: -20px;
+    font-style: italic;
+    color: rgb(180, 31, 31);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px; ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(194, 17, 17);
+}
+
+#description{
+    text-align: center;
+    font-style:oblique;
+}
+
+#tribute-info, #intro {
+    text-align: justify;
+    margin: 10px 50px;
+}
+
+li {
+    margin:30px 200px;
+}
+
+.bold {
+    font-size: 22px;
+    color: rgb(180, 31, 31);
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(233, 27, 27);
+    font-weight: bolder;
+}
+
+.mention {
+    font-weight: lighter;
+    text-align: left;
+    font-style: oblique;
+    color: rgb(41, 37, 37);
+    margin-left:230px;
+    margin-top: 50px ;
+}
+a:visited {
+    color:black;
+}
+
+.wiki {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+
+}
